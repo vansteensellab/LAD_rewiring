@@ -1,0 +1,1 @@
+This folder contains the scripts that were used to generate the figures of Brueckner et al, as html with annotated code chunks and often various plots to verify the intermediate results. File names are not always intuitive, but placed in subfolders that are named according to the figures in the paper. 
